@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Dr. Frederick R",
+        "specialties": ["Extracción", "Endodoncia", "Colocación de coronas", "Pernos dentales"],
+        "contact": "+584123456789",
+        "location": "El Cuji, Zona Norte, Barquisimeto",
+        "benefits": [
+            "Atención personalizada",
+            "Explicación detallada de cada procedimiento",
+            "Resuelve dudas post-tratamiento"
+        ]
+    },
+    {
+        "name": "Dra. Carvajal",
+        "specialties": ["Endodoncia", "Restauración"],
+        "contact": "+58411112222",
+        "location": "Centro, Barquisimeto",
+        "benefits": [
+            "Detalla cada paso del tratamiento",
+            "Uso de materiales duraderos",
+            "Atención cuidadosa durante el proceso"
+        ]
+    },
+    {
+        "name": "Dra. Susana G",
+        "specialties": ["Limpieza", "Fluorización", "Prevención"],
+        "contact": "+584987654321",
+        "location": "Centro, Barquisimeto",
+        "benefits": [
+            "Atención amable y paciente",
+            "Enfoque preventivo",
+            "Recomendaciones personalizadas"
+        ]
+    }
+]
